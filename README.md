@@ -30,4 +30,3 @@ PC4 M10 Bowden Couplers for maximum security and reduced PA
 1x M3 heat set insert
 2x M3 x 24mm pin
 4x M3 x 16mm pin
-
