@@ -2,11 +2,11 @@
 
 This is a high performance dual nema17 extruder for bowden printers. It can keep up with demanding pressure advance values and extreme speeds and accelerations.
 
-![Toolhead render](Images/BFE1.png)
+![Toolhead render](Images/BFE1.jpg)
 
-![Toolhead render](Images/BFE2.png)
+![Toolhead render](Images/BFE2.jpg)
 
-![Toolhead render](Images/BFE3.png)
+![Toolhead render](Images/BFE3.jpg)
 
 ## FEATURES
 Two nema17 motors with 17t hobs
